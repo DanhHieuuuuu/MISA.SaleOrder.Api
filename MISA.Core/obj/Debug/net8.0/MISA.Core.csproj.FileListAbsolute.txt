@@ -1,0 +1,12 @@
+E:\download\MISA.SaleOrder.Api\MISA.Core\bin\Debug\net8.0\MISA.Core.deps.json
+E:\download\MISA.SaleOrder.Api\MISA.Core\bin\Debug\net8.0\MISA.Core.dll
+E:\download\MISA.SaleOrder.Api\MISA.Core\bin\Debug\net8.0\MISA.Core.pdb
+E:\download\MISA.SaleOrder.Api\MISA.Core\obj\Debug\net8.0\MISA.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\download\MISA.SaleOrder.Api\MISA.Core\obj\Debug\net8.0\MISA.Core.AssemblyInfoInputs.cache
+E:\download\MISA.SaleOrder.Api\MISA.Core\obj\Debug\net8.0\MISA.Core.AssemblyInfo.cs
+E:\download\MISA.SaleOrder.Api\MISA.Core\obj\Debug\net8.0\MISA.Core.csproj.CoreCompileInputs.cache
+E:\download\MISA.SaleOrder.Api\MISA.Core\obj\Debug\net8.0\MISA.Core.dll
+E:\download\MISA.SaleOrder.Api\MISA.Core\obj\Debug\net8.0\refint\MISA.Core.dll
+E:\download\MISA.SaleOrder.Api\MISA.Core\obj\Debug\net8.0\MISA.Core.pdb
+E:\download\MISA.SaleOrder.Api\MISA.Core\obj\Debug\net8.0\ref\MISA.Core.dll
+E:\download\MISA.SaleOrder.Api\MISA.Core\obj\Debug\net8.0\MISA.Core.csproj.AssemblyReference.cache
