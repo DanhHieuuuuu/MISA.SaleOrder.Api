@@ -117,7 +117,7 @@
               "RelativeDocumentMoniker": "MISA.Core\\Services\\CustomerService.cs",
               "ToolTip": "E:\\download\\MISA.SaleOrder.Api\\MISA.Core\\Services\\CustomerService.cs",
               "RelativeToolTip": "MISA.Core\\Services\\CustomerService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T03:44:33.575Z",
               "IsPinned": true,
@@ -158,8 +158,7 @@
               "RelativeToolTip": "MISA.SaleOrder.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T04:40:35.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T04:40:35.057Z"
             },
             {
               "$type": "Document",
@@ -183,8 +182,7 @@
               "RelativeToolTip": "MISA.Core\\Exceptions\\ValidateExceptionMiddleWare.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T03:04:31.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T03:04:31.433Z"
             },
             {
               "$type": "Document",

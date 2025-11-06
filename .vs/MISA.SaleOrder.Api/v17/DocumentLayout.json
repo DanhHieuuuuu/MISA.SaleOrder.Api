@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\download\\MISA.SaleOrder.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{57A50C14-9660-4548-B99F-F723495ED2C4}|MISA.Infrastructure\\MISA.Infrastructure.csproj|e:\\download\\misa.saleorder.api\\misa.infrastructure\\repositories\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A50C14-9660-4548-B99F-F723495ED2C4}|MISA.Infrastructure\\MISA.Infrastructure.csproj|solutionrelative:misa.infrastructure\\repositories\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F6FEC7-85FE-4CBD-B70F-D57770E886FB}|MISA.Core\\MISA.Core.csproj|e:\\download\\misa.saleorder.api\\misa.core\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F6FEC7-85FE-4CBD-B70F-D57770E886FB}|MISA.Core\\MISA.Core.csproj|solutionrelative:misa.core\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{44F6FEC7-85FE-4CBD-B70F-D57770E886FB}|MISA.Core\\MISA.Core.csproj|e:\\download\\misa.saleorder.api\\misa.core\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44F6FEC7-85FE-4CBD-B70F-D57770E886FB}|MISA.Core\\MISA.Core.csproj|solutionrelative:misa.core\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{28C49CD4-2B0E-4ECB-BFC4-C1561C62E2C9}|MISA.SaleOrder.Api\\MISA.SaleOrder.Api.csproj|e:\\download\\misa.saleorder.api\\misa.saleorder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28C49CD4-2B0E-4ECB-BFC4-C1561C62E2C9}|MISA.SaleOrder.Api\\MISA.SaleOrder.Api.csproj|solutionrelative:misa.saleorder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57A50C14-9660-4548-B99F-F723495ED2C4}|MISA.Infrastructure\\MISA.Infrastructure.csproj|e:\\download\\misa.saleorder.api\\misa.infrastructure\\repositories\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57A50C14-9660-4548-B99F-F723495ED2C4}|MISA.Infrastructure\\MISA.Infrastructure.csproj|solutionrelative:misa.infrastructure\\repositories\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57A50C14-9660-4548-B99F-F723495ED2C4}|MISA.Infrastructure\\MISA.Infrastructure.csproj|e:\\download\\misa.saleorder.api\\misa.infrastructure\\repositories\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{44F6FEC7-85FE-4CBD-B70F-D57770E886FB}|MISA.Core\\MISA.Core.csproj|e:\\download\\misa.saleorder.api\\misa.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44F6FEC7-85FE-4CBD-B70F-D57770E886FB}|MISA.Core\\MISA.Core.csproj|solutionrelative:misa.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F6FEC7-85FE-4CBD-B70F-D57770E886FB}|MISA.Core\\MISA.Core.csproj|e:\\download\\misa.saleorder.api\\misa.core\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F6FEC7-85FE-4CBD-B70F-D57770E886FB}|MISA.Core\\MISA.Core.csproj|solutionrelative:misa.core\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28C49CD4-2B0E-4ECB-BFC4-C1561C62E2C9}|MISA.SaleOrder.Api\\MISA.SaleOrder.Api.csproj|e:\\download\\misa.saleorder.api\\misa.saleorder.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 790,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
@@ -107,17 +107,18 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T03:56:10.509Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "E:\\download\\MISA.SaleOrder.Api\\MISA.Core\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "MISA.Core\\Services\\CustomerService.cs",
               "ToolTip": "E:\\download\\MISA.SaleOrder.Api\\MISA.Core\\Services\\CustomerService.cs",
               "RelativeToolTip": "MISA.Core\\Services\\CustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T03:44:33.575Z",
               "IsPinned": true,
@@ -125,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CustomerRepo.cs",
               "DocumentMoniker": "E:\\download\\MISA.SaleOrder.Api\\MISA.Infrastructure\\Repositories\\CustomerRepo.cs",
               "RelativeDocumentMoniker": "MISA.Infrastructure\\Repositories\\CustomerRepo.cs",
@@ -134,7 +135,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T03:48:20.441Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -150,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\download\\MISA.SaleOrder.Api\\MISA.SaleOrder.Api\\Program.cs",
               "RelativeDocumentMoniker": "MISA.SaleOrder.Api\\Program.cs",
@@ -158,7 +160,8 @@
               "RelativeToolTip": "MISA.SaleOrder.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T04:40:35.057Z"
+              "WhenOpened": "2025-10-27T04:40:35.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -170,11 +173,12 @@
               "RelativeToolTip": "MISA.Core\\Exceptions\\ValidateException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T03:04:35.225Z"
+              "WhenOpened": "2025-10-27T03:04:35.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ValidateExceptionMiddleWare.cs",
               "DocumentMoniker": "E:\\download\\MISA.SaleOrder.Api\\MISA.Core\\Exceptions\\ValidateExceptionMiddleWare.cs",
               "RelativeDocumentMoniker": "MISA.Core\\Exceptions\\ValidateExceptionMiddleWare.cs",
@@ -182,11 +186,12 @@
               "RelativeToolTip": "MISA.Core\\Exceptions\\ValidateExceptionMiddleWare.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T03:04:31.433Z"
+              "WhenOpened": "2025-10-27T03:04:31.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ICustomerRepo.cs",
               "DocumentMoniker": "E:\\download\\MISA.SaleOrder.Api\\MISA.Core\\Interfaces\\Repository\\ICustomerRepo.cs",
               "RelativeDocumentMoniker": "MISA.Core\\Interfaces\\Repository\\ICustomerRepo.cs",
@@ -194,7 +199,8 @@
               "RelativeToolTip": "MISA.Core\\Interfaces\\Repository\\ICustomerRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T18:26:00.113Z"
+              "WhenOpened": "2025-10-26T18:26:00.113Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -206,7 +212,8 @@
               "RelativeToolTip": "MISA.Core\\Interfaces\\Repository\\IBaseRepo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T18:25:57.015Z"
+              "WhenOpened": "2025-10-26T18:25:57.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -218,19 +225,21 @@
               "RelativeToolTip": "MISA.Core\\Dtos\\PageResultDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T18:22:01.004Z"
+              "WhenOpened": "2025-10-26T18:22:01.004Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "BaseRepo.cs",
               "DocumentMoniker": "E:\\download\\MISA.SaleOrder.Api\\MISA.Infrastructure\\Repositories\\BaseRepo.cs",
               "RelativeDocumentMoniker": "MISA.Infrastructure\\Repositories\\BaseRepo.cs",
               "ToolTip": "E:\\download\\MISA.SaleOrder.Api\\MISA.Infrastructure\\Repositories\\BaseRepo.cs",
               "RelativeToolTip": "MISA.Infrastructure\\Repositories\\BaseRepo.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwEkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T17:39:06.535Z"
+              "WhenOpened": "2025-10-26T17:39:06.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -246,15 +255,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "BaseService.cs",
               "DocumentMoniker": "E:\\download\\MISA.SaleOrder.Api\\MISA.Core\\Services\\BaseService.cs",
               "RelativeDocumentMoniker": "MISA.Core\\Services\\BaseService.cs",
               "ToolTip": "E:\\download\\MISA.SaleOrder.Api\\MISA.Core\\Services\\BaseService.cs",
               "RelativeToolTip": "MISA.Core\\Services\\BaseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T17:32:24.186Z"
+              "WhenOpened": "2025-10-26T17:32:24.186Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -318,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\download\\MISA.SaleOrder.Api\\MISA.SaleOrder.Api\\appsettings.json",
               "RelativeDocumentMoniker": "MISA.SaleOrder.Api\\appsettings.json",
@@ -330,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Customer.cs",
               "DocumentMoniker": "E:\\download\\MISA.SaleOrder.Api\\MISA.Core\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "MISA.Core\\Entities\\Customer.cs",
@@ -354,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ICustomerService.cs",
               "DocumentMoniker": "E:\\download\\MISA.SaleOrder.Api\\MISA.Core\\Interfaces\\Service\\ICustomerService.cs",
               "RelativeDocumentMoniker": "MISA.Core\\Interfaces\\Service\\ICustomerService.cs",
